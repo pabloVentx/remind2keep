@@ -1,0 +1,18 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Proyectos de remind2keep: pueden contener credenciales reales de clientes o CTFs
+*.r2k.json
+*.r2k.json.bak
+*.tmp
+
+# Exportaciones a Markdown generadas desde la app (suelen incluir credenciales)
+export_*.md
+
+# Editores y sistema
+.idea/
+.vscode/
+*.swp
+.DS_Store
