@@ -97,5 +97,4 @@ Es JSON plano por defecto, o JSON con un único campo cifrado (`ciphertext`) cua
 
 ## Licencia
 
-*(añade aquí la licencia que prefieras para el repo — MIT o GPLv3 son opciones habituales para herramientas de este tipo)*
-Notas y organización rápida para auditorías de pentesting y CTFs, con una interfaz nativa de Linux pensada para no romper el ritmo durante una auditoría real.
+Este proyecto está bajo la [Licencia MIT](LICENSE). Consulta el archivo `LICENSE` para más detalles.
