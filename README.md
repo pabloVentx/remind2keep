@@ -27,7 +27,7 @@ Nada de pestañas del navegador, nada de apps web con login: un único archivo `
 Requisitos: Linux, Python 3.9+, y el paquete `python3-venv` de tu distro (en Debian/Ubuntu/Kali: `sudo apt install python3-venv`).
 
 ```bash
-git clone https://github.com/tu-usuario/remind2keep.git
+git clone https://github.com/pabloVentx/remind2keep.git
 cd remind2keep
 chmod +x install.sh
 ./install.sh
@@ -97,4 +97,7 @@ Es JSON plano por defecto, o JSON con un único campo cifrado (`ciphertext`) cua
 
 ## Licencia
 
-*(añade aquí la licencia que prefieras para el repo — MIT o GPLv3 son opciones habituales para herramientas de este tipo)*
+Este proyecto está bajo la [Licencia MIT](LICENSE). Consulta el archivo `LICENSE` para más detalles.
+
+---
+*Herramienta desarrollada para uso en auditorías de seguridad autorizadas y entornos educativos/CTFs.*
